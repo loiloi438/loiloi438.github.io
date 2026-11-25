@@ -45,3 +45,16 @@ a {
     color: #38bdf8;
     text-decoration: none;
 }
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+}
+
+.skills span{
+    background:#38bdf8;
+    color:#0f172a;
+    padding:10px 15px;
+    border-radius:20px;
+    font-weight:bold;
+}
